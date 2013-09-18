@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/interfaces
+END
+configuration_initializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/interfaces/configuration_initializer.php
+END
+persistable.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/interfaces/persistable.php
+END
+exportable.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/interfaces/exportable.php
+END

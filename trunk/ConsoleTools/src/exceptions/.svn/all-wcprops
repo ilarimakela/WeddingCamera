@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezcomponents/!svn/ver/11350/trunk/ConsoleTools/src/exceptions
+END
+option_dependency_violation.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezcomponents/!svn/ver/11350/trunk/ConsoleTools/src/exceptions/option_dependency_violation.php
+END
+option_too_many_values.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/option_too_many_values.php
+END
+option_type_violation.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/option_type_violation.php
+END
+option_missing_value.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/option_missing_value.php
+END
+option_string_not_wellformed.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/option_string_not_wellformed.php
+END
+exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/exception.php
+END
+argument_already_registered.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/argument_already_registered.php
+END
+argument_type_violation.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/argument_type_violation.php
+END
+no_valid_dialog_result.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/no_valid_dialog_result.php
+END
+option.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/option.php
+END
+option_mandatory_violation.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/option_mandatory_violation.php
+END
+invalid_output_target.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/invalid_output_target.php
+END
+option_no_alias.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/option_no_alias.php
+END
+invalid_option_name.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/invalid_option_name.php
+END
+no_position_stored.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/no_position_stored.php
+END
+option_arguments_violation.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/option_arguments_violation.php
+END
+argument.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/argument.php
+END
+argument_mandatory_violation.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/argument_mandatory_violation.php
+END
+option_exclusion_violation.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/option_exclusion_violation.php
+END
+option_already_registered.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/option_already_registered.php
+END
+dialog_abort.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/dialog_abort.php
+END
+argument_too_many.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/argument_too_many.php
+END
+option_not_exists.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezcomponents/!svn/ver/11340/trunk/ConsoleTools/src/exceptions/option_not_exists.php
+END

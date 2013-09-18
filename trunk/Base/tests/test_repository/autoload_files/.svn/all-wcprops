@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezcomponents/!svn/ver/5670/trunk/Base/tests/test_repository/autoload_files
+END
+object_autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezcomponents/!svn/ver/5670/trunk/Base/tests/test_repository/autoload_files/object_autoload.php
+END
+basetest_long_autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezcomponents/!svn/ver/5670/trunk/Base/tests/test_repository/autoload_files/basetest_long_autoload.php
+END
+basetest_autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezcomponents/!svn/ver/5670/trunk/Base/tests/test_repository/autoload_files/basetest_autoload.php
+END

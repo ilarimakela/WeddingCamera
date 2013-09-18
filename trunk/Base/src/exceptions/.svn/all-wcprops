@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions
+END
+file_not_found.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/file_not_found.php
+END
+property_permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/property_permission.php
+END
+file_exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/file_exception.php
+END
+exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/exception.php
+END
+property_not_found.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/property_not_found.php
+END
+file_io.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/file_io.php
+END
+autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/autoload.php
+END
+setting_value.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/setting_value.php
+END
+double_class_repository_prefix.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/double_class_repository_prefix.php
+END
+value.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/value.php
+END
+functionality_not_supported.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/functionality_not_supported.php
+END
+init_callback_configured.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/init_callback_configured.php
+END
+invalid_parent_class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/invalid_parent_class.php
+END
+whatever.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/whatever.php
+END
+file_permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/file_permission.php
+END
+invalid_callback_class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/invalid_callback_class.php
+END
+extension_not_found.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/extension_not_found.php
+END
+setting_not_found.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/src/exceptions/setting_not_found.php
+END

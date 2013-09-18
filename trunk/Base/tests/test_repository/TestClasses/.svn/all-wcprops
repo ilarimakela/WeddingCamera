@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezcomponents/!svn/ver/5670/trunk/Base/tests/test_repository/TestClasses
+END
+base_test_long_class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezcomponents/!svn/ver/5670/trunk/Base/tests/test_repository/TestClasses/base_test_long_class.php
+END
+base_test_class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezcomponents/!svn/ver/5670/trunk/Base/tests/test_repository/TestClasses/base_test_class.php
+END
+base_test_class_number_two.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezcomponents/!svn/ver/5670/trunk/Base/tests/test_repository/TestClasses/base_test_class_number_two.php
+END

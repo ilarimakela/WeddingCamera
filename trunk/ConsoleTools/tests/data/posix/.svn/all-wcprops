@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezcomponents/!svn/ver/10779/trunk/ConsoleTools/tests/data/posix
+END
+testProgress13.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezcomponents/!svn/ver/4748/trunk/ConsoleTools/tests/data/posix/testProgress13.dat
+END
+testTable4a.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezcomponents/!svn/ver/4740/trunk/ConsoleTools/tests/data/posix/testTable4a.dat
+END
+testTable4b.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezcomponents/!svn/ver/4740/trunk/ConsoleTools/tests/data/posix/testTable4b.dat
+END
+testTable4c.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezcomponents/!svn/ver/4740/trunk/ConsoleTools/tests/data/posix/testTable4c.dat
+END
+testProgress1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezcomponents/!svn/ver/4748/trunk/ConsoleTools/tests/data/posix/testProgress1.dat
+END
+testProgress2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezcomponents/!svn/ver/4748/trunk/ConsoleTools/tests/data/posix/testProgress2.dat
+END
+testProgress3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezcomponents/!svn/ver/4748/trunk/ConsoleTools/tests/data/posix/testProgress3.dat
+END
+ezcConsoleMenuDialogTest__testDialog1.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezcomponents/!svn/ver/4856/trunk/ConsoleTools/tests/data/posix/ezcConsoleMenuDialogTest__testDialog1.php
+END
+testProgress4.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezcomponents/!svn/ver/4748/trunk/ConsoleTools/tests/data/posix/testProgress4.dat
+END
+ezcConsoleMenuDialogTest__testDialog2.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezcomponents/!svn/ver/4856/trunk/ConsoleTools/tests/data/posix/ezcConsoleMenuDialogTest__testDialog2.php
+END
+testProgress5.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezcomponents/!svn/ver/4748/trunk/ConsoleTools/tests/data/posix/testProgress5.dat
+END
+ezcConsoleMenuDialogTest__testDialog3.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezcomponents/!svn/ver/7509/trunk/ConsoleTools/tests/data/posix/ezcConsoleMenuDialogTest__testDialog3.php
+END
+testProgress6.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezcomponents/!svn/ver/4748/trunk/ConsoleTools/tests/data/posix/testProgress6.dat
+END
+ezcConsoleMenuDialogTest__testDialog4.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezcomponents/!svn/ver/9575/trunk/ConsoleTools/tests/data/posix/ezcConsoleMenuDialogTest__testDialog4.php
+END
+testProgress7.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezcomponents/!svn/ver/4748/trunk/ConsoleTools/tests/data/posix/testProgress7.dat
+END
+testProgress8.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezcomponents/!svn/ver/4748/trunk/ConsoleTools/tests/data/posix/testProgress8.dat
+END
+testUtf8TableHighlightUtf8.dat
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezcomponents/!svn/ver/10516/trunk/ConsoleTools/tests/data/posix/testUtf8TableHighlightUtf8.dat
+END
+testTableColPadding1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezcomponents/!svn/ver/4740/trunk/ConsoleTools/tests/data/posix/testTableColPadding1.dat
+END
+testProgress9.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezcomponents/!svn/ver/4748/trunk/ConsoleTools/tests/data/posix/testProgress9.dat
+END
+testTableColPadding2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezcomponents/!svn/ver/4740/trunk/ConsoleTools/tests/data/posix/testTableColPadding2.dat
+END
+testTableWithoutFormatting.dat
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezcomponents/!svn/ver/10658/trunk/ConsoleTools/tests/data/posix/testTableWithoutFormatting.dat
+END
+testTable1a.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezcomponents/!svn/ver/4740/trunk/ConsoleTools/tests/data/posix/testTable1a.dat
+END
+testTable1b.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezcomponents/!svn/ver/4740/trunk/ConsoleTools/tests/data/posix/testTable1b.dat
+END
+testTableWithSpaceBorders.dat
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezcomponents/!svn/ver/5074/trunk/ConsoleTools/tests/data/posix/testTableWithSpaceBorders.dat
+END
+testFinish.dat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezcomponents/!svn/ver/4911/trunk/ConsoleTools/tests/data/posix/testFinish.dat
+END
+testStatusbar1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezcomponents/!svn/ver/4756/trunk/ConsoleTools/tests/data/posix/testStatusbar1.dat
+END
+testStatusbar2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezcomponents/!svn/ver/4756/trunk/ConsoleTools/tests/data/posix/testStatusbar2.dat
+END
+testProgressMonitor1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezcomponents/!svn/ver/7512/trunk/ConsoleTools/tests/data/posix/testProgressMonitor1.dat
+END
+testProgressMonitor2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezcomponents/!svn/ver/7512/trunk/ConsoleTools/tests/data/posix/testProgressMonitor2.dat
+END
+testProgressUtfInBar.dat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezcomponents/!svn/ver/10515/trunk/ConsoleTools/tests/data/posix/testProgressUtfInBar.dat
+END
+testProgressMonitor3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezcomponents/!svn/ver/7512/trunk/ConsoleTools/tests/data/posix/testProgressMonitor3.dat
+END
+testProgressMonitor4.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezcomponents/!svn/ver/7512/trunk/ConsoleTools/tests/data/posix/testProgressMonitor4.dat
+END
+testOneRowOneColumnTable.dat
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezcomponents/!svn/ver/10495/trunk/ConsoleTools/tests/data/posix/testOneRowOneColumnTable.dat
+END
+testTable5autowidth.dat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezcomponents/!svn/ver/5305/trunk/ConsoleTools/tests/data/posix/testTable5autowidth.dat
+END
+testEmptyTable.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezcomponents/!svn/ver/10495/trunk/ConsoleTools/tests/data/posix/testEmptyTable.dat
+END
+testUtf8TableHighlightNonUtf8.dat
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezcomponents/!svn/ver/10516/trunk/ConsoleTools/tests/data/posix/testUtf8TableHighlightNonUtf8.dat
+END
+testTable2a.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezcomponents/!svn/ver/4740/trunk/ConsoleTools/tests/data/posix/testTable2a.dat
+END
+testTable2b.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezcomponents/!svn/ver/4740/trunk/ConsoleTools/tests/data/posix/testTable2b.dat
+END
+testProgressUtfInText.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezcomponents/!svn/ver/10515/trunk/ConsoleTools/tests/data/posix/testProgressUtfInText.dat
+END
+testTableWithoutVerticalBorders.dat
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezcomponents/!svn/ver/5074/trunk/ConsoleTools/tests/data/posix/testTableWithoutVerticalBorders.dat
+END
+testTableWithoutBorders.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezcomponents/!svn/ver/5074/trunk/ConsoleTools/tests/data/posix/testTableWithoutBorders.dat
+END
+ezcConsoleQuestionDialogTest__testDialog1_res.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ezcomponents/!svn/ver/5670/trunk/ConsoleTools/tests/data/posix/ezcConsoleQuestionDialogTest__testDialog1_res.php
+END
+ezcConsoleQuestionDialogTest__testDialog2_res.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ezcomponents/!svn/ver/5670/trunk/ConsoleTools/tests/data/posix/ezcConsoleQuestionDialogTest__testDialog2_res.php
+END
+ezcConsoleQuestionDialogTest__testDialog3_res.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ezcomponents/!svn/ver/5670/trunk/ConsoleTools/tests/data/posix/ezcConsoleQuestionDialogTest__testDialog3_res.php
+END
+ezcConsoleQuestionDialogTest__testDialog4_res.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ezcomponents/!svn/ver/5260/trunk/ConsoleTools/tests/data/posix/ezcConsoleQuestionDialogTest__testDialog4_res.php
+END
+testTableWithoutHorizontalBorders.dat
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezcomponents/!svn/ver/5074/trunk/ConsoleTools/tests/data/posix/testTableWithoutHorizontalBorders.dat
+END
+ezcConsoleQuestionDialogTest__testDialog5_res.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ezcomponents/!svn/ver/9575/trunk/ConsoleTools/tests/data/posix/ezcConsoleQuestionDialogTest__testDialog5_res.php
+END
+testTable3a.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezcomponents/!svn/ver/4740/trunk/ConsoleTools/tests/data/posix/testTable3a.dat
+END
+testTable3b.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezcomponents/!svn/ver/4740/trunk/ConsoleTools/tests/data/posix/testTable3b.dat
+END
+testTable3c.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezcomponents/!svn/ver/4911/trunk/ConsoleTools/tests/data/posix/testTable3c.dat
+END
+testTable3d.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezcomponents/!svn/ver/4911/trunk/ConsoleTools/tests/data/posix/testTable3d.dat
+END
+testProgressUtfInBoth.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezcomponents/!svn/ver/10515/trunk/ConsoleTools/tests/data/posix/testProgressUtfInBoth.dat
+END
+ezcConsoleQuestionDialogTest__testDialog1.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ezcomponents/!svn/ver/4856/trunk/ConsoleTools/tests/data/posix/ezcConsoleQuestionDialogTest__testDialog1.php
+END
+ezcConsoleQuestionDialogTest__testDialog2.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ezcomponents/!svn/ver/4856/trunk/ConsoleTools/tests/data/posix/ezcConsoleQuestionDialogTest__testDialog2.php
+END
+ezcConsoleQuestionDialogTest__testDialog3.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ezcomponents/!svn/ver/4856/trunk/ConsoleTools/tests/data/posix/ezcConsoleQuestionDialogTest__testDialog3.php
+END
+ezcConsoleQuestionDialogTest__testDialog4.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ezcomponents/!svn/ver/5260/trunk/ConsoleTools/tests/data/posix/ezcConsoleQuestionDialogTest__testDialog4.php
+END
+ezcConsoleQuestionDialogTest__testDialog5.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ezcomponents/!svn/ver/9575/trunk/ConsoleTools/tests/data/posix/ezcConsoleQuestionDialogTest__testDialog5.php
+END
+ezcConsoleMenuDialogTest__testDialog1_res.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezcomponents/!svn/ver/10779/trunk/ConsoleTools/tests/data/posix/ezcConsoleMenuDialogTest__testDialog1_res.php
+END
+ezcConsoleMenuDialogTest__testDialog2_res.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezcomponents/!svn/ver/10779/trunk/ConsoleTools/tests/data/posix/ezcConsoleMenuDialogTest__testDialog2_res.php
+END
+ezcConsoleMenuDialogTest__testDialog3_res.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ezcomponents/!svn/ver/7510/trunk/ConsoleTools/tests/data/posix/ezcConsoleMenuDialogTest__testDialog3_res.php
+END
+ezcConsoleMenuDialogTest__testDialog4_res.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ezcomponents/!svn/ver/9575/trunk/ConsoleTools/tests/data/posix/ezcConsoleMenuDialogTest__testDialog4_res.php
+END
+testProgress10.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezcomponents/!svn/ver/4748/trunk/ConsoleTools/tests/data/posix/testProgress10.dat
+END
+testProgress11.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezcomponents/!svn/ver/4748/trunk/ConsoleTools/tests/data/posix/testProgress11.dat
+END
+testProgress12.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezcomponents/!svn/ver/4748/trunk/ConsoleTools/tests/data/posix/testProgress12.dat
+END

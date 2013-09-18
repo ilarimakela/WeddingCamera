@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests
+END
+suite.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests/suite.php
+END
+test_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezcomponents/!svn/ver/5670/trunk/Base/tests/test_options.php
+END
+base_init_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests/base_init_test.php
+END
+file_copy_recursive_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests/file_copy_recursive_test.php
+END
+file_calculate_relative_path_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests/file_calculate_relative_path_test.php
+END
+file_find_recursive_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests/file_find_recursive_test.php
+END
+base_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests/base_test.php
+END
+features_unix_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests/features_unix_test.php
+END
+metadata_tarball_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezcomponents/!svn/ver/10261/trunk/Base/tests/metadata_tarball_test.php
+END
+file_remove_recursive_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests/file_remove_recursive_test.php
+END
+struct_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests/struct_test.php
+END
+base_options_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests/base_options_test.php
+END
+file_is_absolute_path.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests/file_is_absolute_path.php
+END
+metadata_pear_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests/metadata_pear_test.php
+END
+features_windows_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezcomponents/!svn/ver/11340/trunk/Base/tests/features_windows_test.php
+END
